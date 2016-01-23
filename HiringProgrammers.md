@@ -32,31 +32,31 @@
 		* Does the interviewee evaluate the interviewers? 
 		* This is where the 'role evaluation' from above comes in.
 	* Intern assessment approach
+		* Do we have tasks that are sufficiently well-defined to keep interns productive?
 		* Do we have resources to support the intern?
+		* Interns are likely still in school.  Can we use them effectively while their primary focus is education?
 
 ##Bootcamp development (how do we set our new hires up for success)
 
 *   Company training (domain stuff)
-
 *   Platform/product review
-
-*   Guidewire/Gosu training
-
-*   Apprenenceship approach
-
-*   Pair programming for the bootcamp?
-
-*   Jira/confluence training
-
+*   Apprenticeship approach
+*   Pair programming and code review
 *   Methodology training
-
-*   Colocated/collaborative/cross-functional team training
-
-*   Code review
-
+	*   Jira/confluence training
+	*   Guidewire/Gosu training
+	*   Colocated/collaborative/cross-functional team training
+	
 *   Assessment/mentoring
+	* How do we ensure ongoing learning?
+	* Course-correction
 
-##Ongoing mentoring/coaching approach (how do we ensure ongoing learning and course-correction)
-
-##General discussion/brainstorming/ideation/longer-term ideas on technology we might want to consider
-
+##General discussion 
+* Brainstorming
+* Longer-term ideas on technology we might want to consider
+* Business stories
+	* Pre-Interview
+	* Interview
+	* Assessment
+	* Onboarding
+	* Carreer?
