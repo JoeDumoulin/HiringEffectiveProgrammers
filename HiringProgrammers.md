@@ -6,7 +6,6 @@
 	*  Describe the roles and the needs of the position from both the organization's perspective and from your perspective.
 
 * Resumes
-	* Best practices
 	* Who is not a candidate
 	* The human resources function and the Human Resources Department
 	* What's left?  Are they available?
@@ -49,7 +48,7 @@
 	
 *   Assessment/mentoring
 	* How do we ensure ongoing learning?
-	* Course-correction
+	* Course-correction: observation and rating (performance _and_ team)
 
 ##General discussion 
 * Brainstorming
